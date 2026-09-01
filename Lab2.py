@@ -1,4 +1,3 @@
-st.title("Lab 2 - Document question answering")
 import streamlit as st
 from openai import OpenAI
 import fitz

@@ -4,3 +4,5 @@ PyMuPDF
 chromadb
 pysqlite3-binary; platform_system == "Linux"
 requests
+langchain>=1.0
+langchain-openai>=1.0
